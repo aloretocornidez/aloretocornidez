@@ -45,14 +45,17 @@ Here are some ideas to get you started:
 <div align="center"> i use arch btw </div>
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png?20221007043523" alt="Arch Linux Logo"></div>
 
+## My Story  
+My goal has, and always will be to achieve excellence in every action I take. If I am not immediately good at something, I will practice until I am. To this point, my determination has met no bound, and I never intend to let it do so.
 
-My goal has, and always will be to achieve excellence in every action I take. If I am not immediately good at something, I will practice until I am. My determination has met no bound, and I never intend to let it do so.
+I have overcome many hardships in my schooling career. I was about to drop out my first semester because I failed a class and was going to lose my scholarship. At that moment I recognized that every action I take will shape my habits for the rest of my life. So with that in mind, I decided to take a risk and continue with my schooling in electrical and computer engineering. **'Me puse las pilas'** and now I am in my senior year and will be proudly finishing my coursework and graduating with a BS in May 2023.
 
-I have overcome many hardships in my schooling career. For example, I was about to drop out my first semester. I failed a class and was going to lose my scholarship. At that moment I recognized that every action I take will shape my habits for the rest of my life. With that in mind, I decided to take a risk and continue with my schooling in Electrical and Computer engineering. Me 'puse las pilas' and now I am in my senior year and will be proudly finishing my coursework and graduating with a BS in May 2023. 
+## Future Plans
+Currently I seek a Master's degree via the accelerated master's program at the UofA, however, if I find a job that I enjoy I will go into industry immediately after I graduate with my undergraduate degree.
 
-I seek to challenge myself in everything I do and I like to surround myself with others who do the same.
 
-Currently I seek a Master's degree via the accelerated master's program at the UofA, if I fond a job that I enjoy I will go into industry immediately after I graduate my bachelor program.
+## Who do I like to work with?
+I seek to challenge myself in everything I do and I like to surround myself with others who do the same. I always want to learn from others an dnever like 'being the smartest person in the room.'
 
 ---
 
