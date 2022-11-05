@@ -85,4 +85,7 @@ Currently I seek a Master's degree via the accelerated master's program at the U
 
 # :fire: My Stats :fire:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aloretocornidez&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aloretocornidez&theme=dark&stroke=1793D1&ring=1793D1&currStreakLabel=1793D1&dates=929292&sideNums=1793D1&fire=5D00DD)](https://git.io/streak-stats)
+
+
+[![Alan Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloretocornidez)](https://github.com/aloretocornidez/github-readme-stats)
