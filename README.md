@@ -1,18 +1,3 @@
-<!--
-**aloretocornidez/aloretocornidez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
     <img src="https://cdn.myanimelist.net/s/common/uploaded_files/1449565442-799682393c093c4b5a5034dde32bb999.gif" width="200"/>
     <div id="social-media-badges" align="center">
@@ -33,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100"/>
 
 </div>
-
+---
 
 # :octocat: About Me :octocat:
 
@@ -52,9 +37,6 @@ I have overcome many hardships in my schooling career. I was about to drop out m
 
 ## Future Plans
 Currently I seek a Master's degree via the accelerated master's program at the UofA, however, if I find a job that I enjoy I will go into industry immediately after I graduate with my undergraduate degree.
-
-
----
 
 # :boxing_glove: My Skills :boxing_glove:
 
