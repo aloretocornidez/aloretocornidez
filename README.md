@@ -38,8 +38,13 @@ Here are some ideas to get you started:
 
 
 
-# :octocat: About Me
-- I like cars, guitars, photography, and computers.
+# :octocat: About Me :octocat:
+I like cars :car:
+I like guitars :guitar:
+I like computers :laptop:
+I like photography :camera:
+I like challenging myself :box:
+
 - Mitsubishi Lancer Evolution Fanboy
 - Metal guitarist and jazz enjoyer
 - Nature and architecture image maker
