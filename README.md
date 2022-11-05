@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aloretocornidez/aloretocornidez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="header" align="center">
+    <img src="https://cdn.myanimelist.net/s/common/uploaded_files/1449565442-799682393c093c4b5a5034dde32bb999.gif" width="200"/>
+    <div id="social-media-badges" align="center">
+        <a href="https://www.linkedin.com/in/aloretocornidez/">
+            <img id="badge-linkedin" src="https://img.shields.io/badge/LinkedIn-aloretocornidez-0e76a8" alt="LinkedIn badge"/>
+            <img id="badge-view-count" src="https://komarev.com/ghpvc/?username=aloretocornidez&style=flat-square&color=blue" alt=""/>
+        </a>
+    </div>
+    <h1>
+    Hey there! 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
+</div>
 
-# About Me
-I like cars, guitars, photography, and computers.
-##### Mitsubishi Lancer Evolution Fanboy
-##### Metal guitarist and jazz enjoyer
-##### Nature and architecture image maker
-##### i use arch btw
+
+<div id="about-me" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+</div>
+
+
+
+
+
+
+# :octocat: About Me
+- I like cars, guitars, photography, and computers.
+- Mitsubishi Lancer Evolution Fanboy
+- Metal guitarist and jazz enjoyer
+- Nature and architecture image maker
+- i use arch btw
+
 
 My goal has, and always will be to achieve excellence in every action I take. If I am not immediately good at something, I will practice until I am. My determination has met no bound, and I never intend to let it do so.
 
@@ -30,3 +53,4 @@ I have overcome many hardships in my schooling career. For example, I was about 
 I seek to challenge myself in everything I do and I like to surround myself with others who do the same.
 
 Currently I seek a Master's degree via the accelerated master's program at the UofA, if I fond a job that I enjoy I will go into industry immediately after I graduate my bachelor program.
+
