@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-
+# 
 I like cars, guitars, photography, and computers.
-# Mitsubishi Lancer Evolution Fanboy
-# Metal guitarist and jazz enjoyer
-# Nature and architecture image maker
-# i use arch btw
+#### Mitsubishi Lancer Evolution Fanboy
+#### Metal guitarist and jazz enjoyer
+#### Nature and architecture image maker
+#### i use arch btw
 
 My goal has, and always will be to achieve excellence in every action I take. If I am not immediately good at something, I will practice until I am. My determination has met no bound, and I never intend to let it do so.
 
