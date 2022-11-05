@@ -42,12 +42,8 @@ Here are some ideas to get you started:
 <div align="center"> I like computers :computer:</div>
 <div align="center"> I like photography :camera:</div>
 <div align="center"> I like challenging myself :cookie:</div>
-
-
-
 <div align="center">
-<p>i use arch btw</p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png?20221007043523" alt="Arch Linux Logo"> 
+    <p>i use arch btw</p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png?20221007043523" alt="Arch Linux Logo"> 
 </div>
 
 
@@ -59,6 +55,7 @@ I seek to challenge myself in everything I do and I like to surround myself with
 
 Currently I seek a Master's degree via the accelerated master's program at the UofA, if I fond a job that I enjoy I will go into industry immediately after I graduate my bachelor program.
 
+---
 
 
 <div>
@@ -70,4 +67,8 @@ Currently I seek a Master's degree via the accelerated master's program at the U
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
+
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="After Effects" **alt="After Effects" width="40" height="40"/>
 </div>
