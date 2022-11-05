@@ -36,11 +36,12 @@ Here are some ideas to get you started:
 ---
 
 # :octocat: About Me :octocat:
-I like cars :car:  
-I like guitars :guitar:  
-I like computers :computer:  
-I like photography :camera:  
-I like challenging myself :cookie:  
+
+<div align="center"> I like cars :car:</div>  
+<div align="center"> I like guitars :guitar:</div>
+<div align="center"> I like computers :computer:</div>
+<div align="center"> I like photography :camera:</div>
+<div align="center"> I like challenging myself :cookie:</div>
 
 
 
