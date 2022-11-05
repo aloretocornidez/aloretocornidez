@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 
 # :octocat: About Me :octocat:
 
-<div align="center"> I like cars :car:</div>  
-<div align="center"> I like guitars :guitar:</div>
-<div align="center"> I like computers :computer:</div>
-<div align="center"> I like photography :camera:</div>
-<div align="center"> I like challenging myself :cookie:</div>
-<div align="center"> i use arch btw </div>
-<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png?20221007043523" alt="Arch Linux Logo"></div>
+- I like cars :car:  
+- I like guitars :guitar:  
+- I like computers :computer:  
+- I like photography :camera:  
+- I like challenging myself :cookie:  
+- i use arch btw   
+<div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png?20221007043523" alt="Arch Linux Logo"></div>
 
 ## My Story  
 My goal has, and always will be to achieve excellence in every action I take. If I am not immediately good at something, I will practice until I am. To this point, my determination has met no bound, and I never intend to let it do so.
