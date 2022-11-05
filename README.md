@@ -33,22 +33,21 @@ Here are some ideas to get you started:
 
 </div>
 
-
-
-
-
+---
 
 # :octocat: About Me :octocat:
-I like cars :car:
-I like guitars :guitar:
-I like computers :laptop:
-I like photography :camera:
-I like challenging myself :box:
+I like cars :car:  
+I like guitars :guitar:  
+I like computers :computer:  
+I like photography :camera:  
+I like challenging myself :cookie:  
 
-- Mitsubishi Lancer Evolution Fanboy
-- Metal guitarist and jazz enjoyer
-- Nature and architecture image maker
-- i use arch btw
+
+
+<div align="center">
+<p>i use arch btw</p>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png?20221007043523" alt="Arch Linux Logo"> 
+</div>
 
 
 My goal has, and always will be to achieve excellence in every action I take. If I am not immediately good at something, I will practice until I am. My determination has met no bound, and I never intend to let it do so.
