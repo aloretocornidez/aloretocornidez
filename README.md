@@ -15,8 +15,9 @@
 ---
 
 <div id="about-me" align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png?20221007043523" alt="Arch Linux Logo">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100"/>
+    
 </div>
 
 ---
