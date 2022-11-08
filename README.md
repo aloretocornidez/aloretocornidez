@@ -18,7 +18,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100"/>
 
 </div>
+
 ---
+
 
 # :octocat: About Me :octocat:
 
