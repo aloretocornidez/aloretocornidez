@@ -15,8 +15,8 @@
 ---
 
 <div id="about-me" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100"/>
-
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png?20221007043523" alt="Arch Linux Logo">
 </div>
 
 ---
@@ -30,7 +30,7 @@
 - I like photography :camera:  
 - I like challenging myself :cookie:  
 - i use arch btw   
-<div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/65px-Archlinux-icon-crystal-64.svg.png?20221007043523" alt="Arch Linux Logo"></div>
+
 
 ## My Story  
 My goal has, and always will be to achieve excellence in every action I take. If I am not immediately good at something, I will practice until I am. To this point, my determination has met no bound, and I never intend to let it do so.
