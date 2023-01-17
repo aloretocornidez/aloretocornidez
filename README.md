@@ -69,4 +69,6 @@ Currently I seek a Master's degree via the accelerated master's program at the U
 
 # :fire: My Stats :fire:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aloretocornidez&theme=dark&stroke=1793D1&ring=1793D1&currStreakLabel=1793D1&dates=929292&sideNums=1793D1&fire=5D00DD)](https://git.io/streak-stats)
+<!--
 [![Top Languages (according to commits)](https://github-readme-stats.vercel.app/api/top-langs/?username=aloretocornidez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
