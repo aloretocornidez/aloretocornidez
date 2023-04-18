@@ -15,7 +15,7 @@
 ---
 
 <div id="about-me" align="center">
-    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" alt="Arch Linux Logo" width="100">
+    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" alt="Arch Linux Logo" height="100">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100" alt="Tux the Penguin"/>
     
 </div>
