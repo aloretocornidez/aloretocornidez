@@ -20,8 +20,6 @@
 </div>
 
 
-
-
 # :octocat: About Me :octocat:
 
 - I like cars :car:  
@@ -32,34 +30,21 @@
 - i use arch btw   
 
 
-<!-- 
-## My Story  
-My goal has, and always will be to achieve excellence in every action I take. If I am not immediately good at something, I will practice until I am. To this point, my determination has met no bound, and I never intend to let it do so.
 
-I have overcome many hardships in my schooling career. I was about to drop out my first semester because I failed a class and was going to lose my scholarship. At that moment I recognized that every action I take will shape my habits for the rest of my life. So with that in mind, I decided to take a risk and continue with my schooling in electrical and computer engineering. <a href="https://linguaholic.com/linguablog/ponte-las-pilas-meaning/">'Me puse las pilas'</a> and now I am in my senior year and will be proudly finishing my coursework and graduating with a BS in May 2023.
--->
 ## Future Plans
-Currently I seek a Master's degree via the accelerated master's program at the UofA.
+Currently I seek a Master's degree via the accelerated master's program at the UofA. Afterwards, I shall proceed into the industry.
 
 # :boxing_glove: My Skills :boxing_glove:
 
 ### Coding and Coding Tools
 <div>
     <!-- <img src="" title="" alt="" width="40" height="40"/> -->
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C Plus Plus" alt="C Plus Pluss" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C Plus Plus" alt="C Plus Plus" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-#### Media Production
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" title="After Effects" **alt="After Effects" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Premiere Pro" alt="Premeiere Pro" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>
-</div>
 
 # :fire: My Stats :fire:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aloretocornidez&theme=dark&stroke=1793D1&ring=1793D1&currStreakLabel=1793D1&dates=929292&sideNums=1793D1&fire=5D00DD)](https://git.io/streak-stats)
