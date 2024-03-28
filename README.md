@@ -2,7 +2,6 @@
     <img src="https://cdn.myanimelist.net/s/common/uploaded_files/1449565442-799682393c093c4b5a5034dde32bb999.gif" width="200"/>
     <div id="social-media-badges" align="center">
         <a href="https://www.linkedin.com/in/aloretocornidez/">
-            <img id="badge-linkedin" src="https://img.shields.io/badge/LinkedIn-aloretocornidez-0e76a8" alt="LinkedIn badge"/>
             <img id="badge-view-count" src="https://komarev.com/ghpvc/?username=aloretocornidez&style=flat-square&color=blue" alt=""/>
         </a>
     </div>
