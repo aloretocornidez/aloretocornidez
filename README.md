@@ -30,7 +30,7 @@
 
 
 ## Future Plans
-Currently I seek a Master's degree via the accelerated master's program at the UofA. Afterwards, I shall proceed into the industry.
+want to never touch a computer again
 
 # :boxing_glove: My Skills :boxing_glove:
 
