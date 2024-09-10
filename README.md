@@ -4,18 +4,9 @@
             <img id="badge-view-count" src="https://komarev.com/ghpvc/?username=aloretocornidez&style=flat-square&color=blue" alt=""/>
         </a>
     </div>
-    <h1>
-    Hey there! 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    </h1>
 </div>
 
 
-<div id="about-me" align="center">
-    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-1200dpi.b42bd35d5916.png" alt="Arch Linux Logo" height="100">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="100" alt="Tux the Penguin"/>
-    
-</div>
 
 
 # :octocat: About Me :octocat:
