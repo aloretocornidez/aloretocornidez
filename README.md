@@ -6,9 +6,6 @@
     </div>
 </div>
 
-
-
-
 # :octocat: About Me :octocat:
 
 - I like cars :car:  
@@ -16,12 +13,7 @@
 - I like computers :computer:  
 - I like photography :camera:  
 - I like challenging myself :cookie:  
-- i use arch btw   
-
-
-
-## Future Plans
-never touch a computer again
+- i use arch btw
 
 # Skills
 
