@@ -29,7 +29,7 @@
 
 # Statistics
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aloretocornidez&theme=dark&stroke=1793D1&ring=1793D1&currStreakLabel=1793D1&dates=929292&sideNums=1793D1&fire=5D00DD)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aloretocornidez&theme=dark&stroke=1793D1&ring=1793D1&currStreakLabel=1793D1&dates=929292&sideNums=1793D1&fire=5D00DD)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=aloretocornidez&theme=dark&stroke=1793D1&ring=1793D1&currStreakLabel=1793D1&dates=929292&sideNums=1793D1&fire=5D00DD)](https://git.io/streak-stats) -->
 
-[![Top Languages (according to commits)](https://github-readme-stats.vercel.app/api/top-langs/?username=aloretocornidez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Languages (according to commits)](https://github-readme-stats.vercel.app/api/top-langs/?username=aloretocornidez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
